@@ -1,0 +1,12 @@
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\WebAPISolution.WebAPI.exe
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\appsettings.Development.json
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\appsettings.json
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\WebAPISolution.WebAPI.dll
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\WebAPISolution.WebAPI.deps.json
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\WebAPISolution.WebAPI.runtimeconfig.json
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\WebAPISolution.WebAPI.pdb
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\Microsoft.AspNetCore.OpenApi.dll
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\Microsoft.OpenApi.dll
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\workplace\WebAPISolution\WebAPISolution.WebAPI\bin\Publish\Swashbuckle.AspNetCore.SwaggerUI.dll
